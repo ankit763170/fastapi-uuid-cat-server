@@ -26,3 +26,5 @@ This repository contains a FastAPI server that supports the following routes:
    ```bash
    git clone https://github.com/yourusername/backend-api-task-v2.git
    cd backend-api-task-v2
+***2 run the project***
+uvicorn main:app --reload
